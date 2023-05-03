@@ -6,8 +6,8 @@ replace github.com/uptrace/uptrace-go => ../..
 
 require (
 	github.com/uptrace/uptrace-go v1.15.0
-	go.opentelemetry.io/otel v1.15.0
-	go.opentelemetry.io/otel/trace v1.15.0
+	go.opentelemetry.io/otel v1.15.1
+	go.opentelemetry.io/otel/trace v1.15.1
 )
 
 require (
@@ -23,7 +23,7 @@ require (
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.15.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.15.0 // indirect
 	go.opentelemetry.io/otel/exporters/stdout/stdouttrace v1.15.0 // indirect
-	go.opentelemetry.io/otel/metric v0.38.0 // indirect
+	go.opentelemetry.io/otel/metric v0.38.1 // indirect
 	go.opentelemetry.io/otel/sdk v1.15.0 // indirect
 	go.opentelemetry.io/otel/sdk/metric v0.38.0 // indirect
 	go.opentelemetry.io/proto/otlp v0.19.0 // indirect
